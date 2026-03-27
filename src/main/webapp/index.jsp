@@ -5,7 +5,6 @@
     <title>JSP - Hello World</title>
   </head>
   <body>
-<<<<<<< HEAD
     <h1><%= "Hello World!" %></h1>
     <input type="text" placeholder="hehehe" />
     <button>here!!</button>
@@ -19,6 +18,5 @@
       <button>정완</button>
       <button>태규</button>
     </div>
->>>>>>> 05fd077ab27650862f9c3990e03f6cfe66724429
   </body>
 </html>

@@ -86,7 +86,7 @@
     <div>
       <button>준석</button>
       <button>도혁</button>
-      <button>영은</button>
+      <button onclick="location.href='ye'">영은</button>
       <button>정완</button>
       <button>태규</button>
       <button>집가기</button>

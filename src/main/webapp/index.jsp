@@ -17,6 +17,7 @@
       <button>영은</button>
       <button>정완</button>
       <button>태규</button>
+      <button>집가기</button>
     </div>
   </body>
 </html>

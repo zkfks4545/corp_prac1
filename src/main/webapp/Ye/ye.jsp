@@ -10,13 +10,6 @@
     <button>here!!</button>
     <br />
     <a href="hello-servlet">Hello Servlet</a>
-
-    <div>
-      <button>준석</button>
-      <button>도혁</button>
-      <button onclick="location.href='ye'">영은</button>
-      <button>정완</button>
-      <button>태규</button>
-    </div>
+      <h1>제가 만들었어요!</h1>
   </body>
 </html>

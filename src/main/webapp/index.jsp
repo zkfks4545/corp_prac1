@@ -12,5 +12,6 @@
       <button>정완</button>
       <button>태규</button>
     </div>
+    <a href="hello-servlet">Hello Servlet</a>
   </body>
 </html>

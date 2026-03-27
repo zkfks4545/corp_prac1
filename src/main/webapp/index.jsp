@@ -9,7 +9,7 @@
     <input type="text" placeholder="hehehe" />
     <button>here!!</button>
     <br />
-    <a href="hello-servlet">Hello Servlet</a>
+    <a href="hello-servlet">눌러보면 뭐 나옴</a>
 
     <div>
       <button>준석</button>

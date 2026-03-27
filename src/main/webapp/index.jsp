@@ -5,19 +5,12 @@
     <title>JSP - Hello World</title>
   </head>
   <body>
-    <h1><%= "Hello World!" %></h1>
-    태규오빠 어디간거에여
-    찾았다 범인
-    과연 이것을 찾을 수 있을 것인가 ??
-
-
-    과연 이것을 찾을 수 있을 것인가 ?? 메롱이다
--다 보입니다-
-
-
-    <input type="text" placeholder="hehehe" />
-    <button>here!!</button>
-    <br />
-    <a href="hello-servlet">Hello Servlet</a>
+    <div>
+      <button>준석</button>
+      <button>도혁</button>
+      <button>영은</button>
+      <button>정완</button>
+      <button>태규</button>
+    </div>
   </body>
 </html>
